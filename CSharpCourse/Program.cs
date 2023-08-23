@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using CSharpCourse.Classes;
 using CSharpCourse.Logica;
 using CSharpCourse.Secao5;
+using CSharpCourse.Secao6;
 
 namespace CursoCSharp {
     class Program {
@@ -19,6 +20,9 @@ namespace CursoCSharp {
                 {"Seção 5 | Construtores e Sobrecarga", Construtores.Executar},
                 {"Seção 5 | Encapsulamento e Properties", Encapsulamento.Executar},
                 {"Seção 5 | Problema Final - Conta Bancaria", ProblemaFinal.Executar},
+                {"Seção 6 | Vetores 1", Vetores1.Executar},
+                {"Seção 6 | Vetores 2", Vetores2.Executar},
+
             });
 
             central.SelecionarEExecutar();

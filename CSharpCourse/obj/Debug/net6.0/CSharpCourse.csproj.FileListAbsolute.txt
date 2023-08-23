@@ -13,3 +13,17 @@ D:\Projetos\C#\CSharpCourse\CSharpCourse\obj\Debug\net6.0\refint\CSharpCourse.dl
 D:\Projetos\C#\CSharpCourse\CSharpCourse\obj\Debug\net6.0\CSharpCourse.pdb
 D:\Projetos\C#\CSharpCourse\CSharpCourse\obj\Debug\net6.0\CSharpCourse.genruntimeconfig.cache
 D:\Projetos\C#\CSharpCourse\CSharpCourse\obj\Debug\net6.0\ref\CSharpCourse.dll
+D:\Projetos\C#\CSharp-POO\CSharpCourse\bin\Debug\net6.0\CSharpCourse.exe
+D:\Projetos\C#\CSharp-POO\CSharpCourse\bin\Debug\net6.0\CSharpCourse.deps.json
+D:\Projetos\C#\CSharp-POO\CSharpCourse\bin\Debug\net6.0\CSharpCourse.runtimeconfig.json
+D:\Projetos\C#\CSharp-POO\CSharpCourse\bin\Debug\net6.0\CSharpCourse.dll
+D:\Projetos\C#\CSharp-POO\CSharpCourse\bin\Debug\net6.0\CSharpCourse.pdb
+D:\Projetos\C#\CSharp-POO\CSharpCourse\obj\Debug\net6.0\CSharpCourse.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\C#\CSharp-POO\CSharpCourse\obj\Debug\net6.0\CSharpCourse.AssemblyInfoInputs.cache
+D:\Projetos\C#\CSharp-POO\CSharpCourse\obj\Debug\net6.0\CSharpCourse.AssemblyInfo.cs
+D:\Projetos\C#\CSharp-POO\CSharpCourse\obj\Debug\net6.0\CSharpCourse.csproj.CoreCompileInputs.cache
+D:\Projetos\C#\CSharp-POO\CSharpCourse\obj\Debug\net6.0\CSharpCourse.dll
+D:\Projetos\C#\CSharp-POO\CSharpCourse\obj\Debug\net6.0\refint\CSharpCourse.dll
+D:\Projetos\C#\CSharp-POO\CSharpCourse\obj\Debug\net6.0\CSharpCourse.pdb
+D:\Projetos\C#\CSharp-POO\CSharpCourse\obj\Debug\net6.0\CSharpCourse.genruntimeconfig.cache
+D:\Projetos\C#\CSharp-POO\CSharpCourse\obj\Debug\net6.0\ref\CSharpCourse.dll

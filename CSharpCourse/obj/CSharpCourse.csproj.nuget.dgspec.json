@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projetos\\C#\\CSharpCourse\\CSharpCourse\\CSharpCourse.csproj": {}
+    "D:\\Projetos\\C#\\CSharp-POO\\CSharpCourse\\CSharpCourse.csproj": {}
   },
   "projects": {
-    "D:\\Projetos\\C#\\CSharpCourse\\CSharpCourse\\CSharpCourse.csproj": {
+    "D:\\Projetos\\C#\\CSharp-POO\\CSharpCourse\\CSharpCourse.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projetos\\C#\\CSharpCourse\\CSharpCourse\\CSharpCourse.csproj",
+        "projectUniqueName": "D:\\Projetos\\C#\\CSharp-POO\\CSharpCourse\\CSharpCourse.csproj",
         "projectName": "CSharpCourse",
-        "projectPath": "D:\\Projetos\\C#\\CSharpCourse\\CSharpCourse\\CSharpCourse.csproj",
+        "projectPath": "D:\\Projetos\\C#\\CSharp-POO\\CSharpCourse\\CSharpCourse.csproj",
         "packagesPath": "C:\\Users\\Juan\\.nuget\\packages\\",
-        "outputPath": "D:\\Projetos\\C#\\CSharpCourse\\CSharpCourse\\obj\\",
+        "outputPath": "D:\\Projetos\\C#\\CSharp-POO\\CSharpCourse\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -60,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
