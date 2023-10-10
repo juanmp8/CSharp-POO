@@ -22,6 +22,7 @@ namespace CursoCSharp {
                 {"Seção 5 | Problema Final - Conta Bancaria", ProblemaFinal.Executar},
                 {"Seção 6 | Vetores 1", Vetores1.Executar},
                 {"Seção 6 | Vetores 2", Vetores2.Executar},
+                {"Seção 6 | Params", Params.Executar},
 
             });
 
