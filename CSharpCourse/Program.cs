@@ -4,6 +4,7 @@ using CSharpCourse.Classes;
 using CSharpCourse.Logica;
 using CSharpCourse.Secao5;
 using CSharpCourse.Secao6;
+using CSharpCourse.Secao6.Ex_List;
 
 namespace CursoCSharp {
     class Program {
@@ -23,6 +24,9 @@ namespace CursoCSharp {
                 {"Seção 6 | Vetores 1", Vetores1.Executar},
                 {"Seção 6 | Vetores 2", Vetores2.Executar},
                 {"Seção 6 | Params", Params.Executar},
+                {"Seção 6 | Foreach", Foreach.Executar},
+                {"Seção 6 | List", Listas.Executar},
+                {"Seção 6 | Exercício de fixação List", Fixacao.Executar},
 
             });
 
