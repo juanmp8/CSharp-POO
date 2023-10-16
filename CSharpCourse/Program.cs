@@ -6,6 +6,7 @@ using CSharpCourse.Secao5;
 using CSharpCourse.Secao6;
 using CSharpCourse.Secao6.Ex_List;
 using CSharpCourse.Secao6.Ex_Matriz;
+using CSharpCourse.Secao7;
 
 namespace CursoCSharp {
     class Program {
@@ -30,6 +31,7 @@ namespace CursoCSharp {
                 {"Seção 6 | Exercício de fixação List", Fixacao.Executar},
                 {"Seção 6 | Matriz", Matriz.Executar},
                 {"Seção 6 | Exercício de fixação Matriz", FixMatriz.Executar},
+                {"Seção 7 | Switch Case", SwitchCase.Executar},
 
             });
 
