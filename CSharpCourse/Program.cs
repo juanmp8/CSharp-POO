@@ -35,6 +35,7 @@ namespace CursoCSharp
                 {"Seção 6 | Exercício de fixação Matriz", FixMatriz.Executar},
                 {"Seção 7 | Switch Case", SwitchCase.Executar},
                 {"Seção 10 | Herança e Polimorfismo", OperacoesBancarias.Executar},
+                {"Seção 10 | Sobreposição, virtual, override e base", Sobreposicao.Executar},
 
             });
 

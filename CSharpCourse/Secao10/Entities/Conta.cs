@@ -18,8 +18,8 @@ namespace CSharpCourse.Secao10.Entities {
             Saldo = saldo;
         }
 
-        public void Saque(double quantia) {
-            Saldo -= quantia;
+        public virtual void Saque(double quantia) {
+            Saldo -= quantia + 5.0;
         }
 
         public void Deposito(double quantia) {

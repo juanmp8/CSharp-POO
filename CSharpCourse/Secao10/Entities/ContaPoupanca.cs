@@ -17,5 +17,10 @@ namespace CSharpCourse.Secao10.Entities {
         public void AtualizarSaldo() {
             Saldo = Saldo * TaxaJuros;
         }
+
+        public override void Saque(double quantia) {
+            base.Saque(quantia);
+            Saldo -= 2.0;
+        }
     }
 }

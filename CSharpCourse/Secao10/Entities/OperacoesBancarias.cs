@@ -14,7 +14,6 @@ namespace CSharpCourse.Secao10.Entities
             ContaEmpresarial eacc = new ContaEmpresarial(1002, "Maria", 0.0, 500.0);
 
             //UPCASTING
-
             Conta acc1 = eacc;
             Conta acc2 = new ContaEmpresarial(1003, "Jorge", 0.0, 200.0);
             Conta acc3 = new ContaPoupanca(1004, "Joao", 0.0, 0.01);
