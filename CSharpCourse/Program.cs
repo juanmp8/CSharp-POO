@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using CSharpCourse.Classes;
 using CSharpCourse.Logica;
 using CSharpCourse.Secao10.Entities;
+using CSharpCourse.Secao10.EX1;
+using CSharpCourse.Secao10.EX2;
 using CSharpCourse.Secao5;
 using CSharpCourse.Secao6;
 using CSharpCourse.Secao6.Ex_List;
@@ -36,6 +38,8 @@ namespace CursoCSharp
                 {"Seção 7 | Switch Case", SwitchCase.Executar},
                 {"Seção 10 | Herança e Polimorfismo", OperacoesBancarias.Executar},
                 {"Seção 10 | Sobreposição, virtual, override e base", Sobreposicao.Executar},
+                {"Seção 10 | Exercício resolvido - Funcionários", EXEmployees.Executar},
+                {"Seção 10 | Exercício proposto - Produtos", EXProposto.Executar},
 
             });
 
