@@ -4,21 +4,25 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CSharpCourse.Secao10.EX1 {
-    internal class Employee {
+namespace CSharpCourse.Secao10.HerancaPolimorfismo.EX1
+{
+    internal class Employee
+    {
         public string Name { get; set; }
         public int Hours { get; set; }
         public double ValuePerHour { get; set; }
 
         public Employee() { }
 
-        public Employee(string name, int hours, double valuePerHour) {
+        public Employee(string name, int hours, double valuePerHour)
+        {
             Name = name;
-            Hours = hours;  
+            Hours = hours;
             ValuePerHour = valuePerHour;
         }
 
-        public virtual double Payement() {
+        public virtual double Payement()
+        {
             return Hours * ValuePerHour;
         }
     }

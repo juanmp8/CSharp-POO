@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CSharpCourse.Secao10.Entities {
+namespace CSharpCourse.Secao10.HerancaPolimorfismo {
     internal class Conta {
         public int Numero { get; private set; }
         public string Proprietario { get; private set; }

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CSharpCourse.Secao10.Entities {
+namespace CSharpCourse.Secao10.HerancaPolimorfismo {
     internal class Sobreposicao {
         public static void Executar() {
             Conta acc1 = new Conta(1001, "Carlos", 500.0);

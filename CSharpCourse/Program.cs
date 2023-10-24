@@ -2,14 +2,16 @@
 using System.Collections.Generic;
 using CSharpCourse.Classes;
 using CSharpCourse.Logica;
-using CSharpCourse.Secao10.Entities;
-using CSharpCourse.Secao10.EX1;
-using CSharpCourse.Secao10.EX2;
+using CSharpCourse.Secao10.HerancaPolimorfismo;
+using CSharpCourse.Secao10.HerancaPolimorfismo.EX1;
+using CSharpCourse.Secao10.HerancaPolimorfismo.EX2;
+using CSharpCourse.Secao10.Abstracao.EX1;
 using CSharpCourse.Secao5;
 using CSharpCourse.Secao6;
 using CSharpCourse.Secao6.Ex_List;
 using CSharpCourse.Secao6.Ex_Matriz;
 using CSharpCourse.Secao7;
+using CSharpCourse.Secao10.Abstracao.EX2;
 
 namespace CursoCSharp
 {
@@ -40,6 +42,8 @@ namespace CursoCSharp
                 {"Seção 10 | Sobreposição, virtual, override e base", Sobreposicao.Executar},
                 {"Seção 10 | Exercício resolvido - Funcionários", EXEmployees.Executar},
                 {"Seção 10 | Exercício proposto - Produtos", EXProposto.Executar},
+                {"Seção 10 | Exercício resolvido - Shapes", EXShapes.Executar},
+                {"Seção 10 | Exercício proposto - Contribuintes/Impostos", EXFixAbstract.Executar},
 
             });
 
