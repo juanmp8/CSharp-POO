@@ -12,11 +12,16 @@ using CSharpCourse.Secao6.Ex_List;
 using CSharpCourse.Secao6.Ex_Matriz;
 using CSharpCourse.Secao7;
 using CSharpCourse.Secao10.Abstracao.EX2;
+using CSharpCourse.Secao9.Enumeracao;
+using CSharpCourse.Secao9.Composicao.EX1;
+using CSharpCourse.Secao9.Composicao.EX2;
 
 namespace CursoCSharp
 {
-    class Program {
-        static void Main(string[] args) {
+    class Program
+    {
+        static void Main(string[] args)
+        {
             var central = new CentralDeExercicios(new Dictionary<string, Action>() {
                 {"Seção 3 | Saída de Dados", SaidaDeDados.Executar},
                 {"Seção 3 | Entrada de Dados 2", EntradaDeDados2.Executar},
@@ -38,6 +43,10 @@ namespace CursoCSharp
                 {"Seção 6 | Matriz", Matriz.Executar},
                 {"Seção 6 | Exercício de fixação Matriz", FixMatriz.Executar},
                 {"Seção 7 | Switch Case", SwitchCase.Executar},
+                {"Seção 7 | Funções interessantes para strings", FunctionsString.Executar},
+                {"Seção 9 | Enumerações", Enumerations.Executar},
+                {"Seção 9 | Exercício resolvido 1 - Composição", Composition.Executar},
+                {"Seção 9 | Exercício resolvido 2 - Composição", Composition2.Executar},
                 {"Seção 10 | Herança e Polimorfismo", OperacoesBancarias.Executar},
                 {"Seção 10 | Sobreposição, virtual, override e base", Sobreposicao.Executar},
                 {"Seção 10 | Exercício resolvido - Funcionários", EXEmployees.Executar},
