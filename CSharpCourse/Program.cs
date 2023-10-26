@@ -15,6 +15,7 @@ using CSharpCourse.Secao10.Abstracao.EX2;
 using CSharpCourse.Secao9.Enumeracao;
 using CSharpCourse.Secao9.Composicao.EX1;
 using CSharpCourse.Secao9.Composicao.EX2;
+using CSharpCourse.Secao9.EXProposto;
 
 namespace CursoCSharp
 {
@@ -47,6 +48,7 @@ namespace CursoCSharp
                 {"Seção 9 | Enumerações", Enumerations.Executar},
                 {"Seção 9 | Exercício resolvido 1 - Composição", Composition.Executar},
                 {"Seção 9 | Exercício resolvido 2 - Composição", Composition2.Executar},
+                {"Seção 9 | Exercício proposto - Final", EX9Proposto.Executar},
                 {"Seção 10 | Herança e Polimorfismo", OperacoesBancarias.Executar},
                 {"Seção 10 | Sobreposição, virtual, override e base", Sobreposicao.Executar},
                 {"Seção 10 | Exercício resolvido - Funcionários", EXEmployees.Executar},
