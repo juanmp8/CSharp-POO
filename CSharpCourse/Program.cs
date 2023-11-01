@@ -16,6 +16,7 @@ using CSharpCourse.Secao9.Enumeracao;
 using CSharpCourse.Secao9.Composicao.EX1;
 using CSharpCourse.Secao9.Composicao.EX2;
 using CSharpCourse.Secao9.EXProposto;
+using CSharpCourse.Secao11;
 
 namespace CursoCSharp
 {
@@ -55,6 +56,9 @@ namespace CursoCSharp
                 {"Seção 10 | Exercício proposto - Produtos", EXProposto.Executar},
                 {"Seção 10 | Exercício resolvido - Shapes", EXShapes.Executar},
                 {"Seção 10 | Exercício proposto - Contribuintes/Impostos", EXFixAbstract.Executar},
+                {"Seção 11 | Try-Catch", TryCatch.Executar},
+                {"Seção 11 | Criando exeções personalizadas", Excecoes.Executar},
+                {"Seção 11 | Exercício proposto - exeções", EXProposto11.Executar},
 
             });
 
